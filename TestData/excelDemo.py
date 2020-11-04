@@ -12,6 +12,10 @@ print(cell.value)
 
 sheet.cell(row=2, column=2).value = "Hatem"
 
+sheet.cell(row = 3, column = 3 ).value = "name@email.com"
+
+sheet.cell(row=3, column=2).value = "Léo"
+
 print(sheet.cell(row=2, column=2).value)
 
 book.save("C:\\Users\\Admin\\Desktop\\PythonDemo.xlsx")
