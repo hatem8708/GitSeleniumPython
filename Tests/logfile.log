@@ -1,0 +1,26 @@
+2020-11-02 09:05:27,905 : INFO : test_e2e : Getting all card titles 
+2020-11-02 09:05:27,943 : INFO : test_e2e : iphone X 
+2020-11-02 09:05:27,956 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 09:05:27,967 : INFO : test_e2e : Nokia Edge 
+2020-11-02 09:05:27,980 : INFO : test_e2e : Blackberry 
+2020-11-02 09:05:28,095 : INFO : test_e2e : Entering country name 
+2020-11-02 09:05:33,587 : INFO : test_e2e : Message received from application is  
+2020-11-02 09:06:56,244 : INFO : test_e2e : Getting all card titles 
+2020-11-02 09:06:56,273 : INFO : test_e2e : iphone X 
+2020-11-02 09:06:56,287 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 09:06:56,301 : INFO : test_e2e : Nokia Edge 
+2020-11-02 09:06:56,314 : INFO : test_e2e : Blackberry 
+2020-11-02 09:06:56,432 : INFO : test_e2e : Entering country name 
+2020-11-02 09:07:01,825 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 09:11:46,128 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:11:46,686 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:11:46,686 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:11:57,007 : INFO : test_e2e : Getting all card titles 
+2020-11-02 09:11:57,037 : INFO : test_e2e : iphone X 
+2020-11-02 09:11:57,048 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 09:11:57,060 : INFO : test_e2e : Nokia Edge 
+2020-11-02 09:11:57,069 : INFO : test_e2e : Blackberry 
+2020-11-02 09:11:57,200 : INFO : test_e2e : Entering country name 
+2020-11-02 09:12:02,626 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 

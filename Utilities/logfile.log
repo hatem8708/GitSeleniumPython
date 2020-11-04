@@ -1,0 +1,155 @@
+2020-11-02 09:27:27,627 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:27:28,196 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:27:28,196 : INFO : test_formSubmission : First Name isHatem 
+2020-11-02 09:27:38,472 : INFO : test_e2e : Getting all card titles 
+2020-11-02 09:27:38,503 : INFO : test_e2e : iphone X 
+2020-11-02 09:27:38,513 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 09:27:38,524 : INFO : test_e2e : Nokia Edge 
+2020-11-02 09:27:38,535 : INFO : test_e2e : Blackberry 
+2020-11-02 09:27:38,645 : INFO : test_e2e : Entering country name 
+2020-11-02 09:27:44,032 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 10:12:22,349 : INFO : test_formSubmission : First Name is Hatem 
+2020-11-02 10:22:36,729 : INFO : test_formSubmission : First Name is Hatem 
+2020-11-02 10:22:37,345 : INFO : test_formSubmission : First Name is Hatem 
+2020-11-02 10:22:37,345 : INFO : test_formSubmission : First Name is Hatem 
+2020-11-02 10:22:47,969 : INFO : test_e2e : Getting all card titles 
+2020-11-02 10:22:48,006 : INFO : test_e2e : iphone X 
+2020-11-02 10:22:48,021 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 10:22:48,032 : INFO : test_e2e : Nokia Edge 
+2020-11-02 10:22:48,041 : INFO : test_e2e : Blackberry 
+2020-11-02 10:22:48,149 : INFO : test_e2e : Entering country name 
+2020-11-02 10:22:53,569 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 14:32:01,067 : INFO : test_e2e : Getting all card titles 
+2020-11-02 14:32:01,093 : INFO : test_e2e : iphone X 
+2020-11-02 14:32:01,104 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 14:32:01,118 : INFO : test_e2e : Nokia Edge 
+2020-11-02 14:32:01,130 : INFO : test_e2e : Blackberry 
+2020-11-02 14:32:01,249 : INFO : test_e2e : Entering country name 
+2020-11-02 14:32:06,688 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 15:44:22,930 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:44:23,634 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:44:23,634 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:45:05,912 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:45:06,661 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:45:06,661 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:51:26,163 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:51:26,933 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:51:26,933 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:58:31,542 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:58:32,334 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 15:58:32,334 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:00:36,197 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:00:36,944 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:00:36,944 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:05:18,869 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:06:49,584 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:06:50,261 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:06:50,261 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:07:47,969 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:08:43,403 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:08:43,964 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:08:43,964 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:16:40,050 : INFO : test_e2e : Getting all card titles 
+2020-11-02 16:16:49,069 : INFO : test_e2e : iphone X 
+2020-11-02 16:16:52,580 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 16:16:54,295 : INFO : test_e2e : Nokia Edge 
+2020-11-02 16:16:56,760 : INFO : test_e2e : Blackberry 
+2020-11-02 16:19:13,509 : INFO : test_e2e : Getting all card titles 
+2020-11-02 16:19:15,667 : INFO : test_e2e : iphone X 
+2020-11-02 16:19:16,917 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 16:19:18,037 : INFO : test_e2e : Nokia Edge 
+2020-11-02 16:19:19,164 : INFO : test_e2e : Blackberry 
+2020-11-02 16:19:23,736 : INFO : test_e2e : Entering country name 
+2020-11-02 16:19:35,136 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 16:22:53,120 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:22:55,255 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:22:55,255 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:23:06,911 : INFO : test_e2e : Getting all card titles 
+2020-11-02 16:23:06,937 : INFO : test_e2e : iphone X 
+2020-11-02 16:23:06,943 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 16:23:06,951 : INFO : test_e2e : Nokia Edge 
+2020-11-02 16:23:06,956 : INFO : test_e2e : Blackberry 
+2020-11-02 16:23:07,393 : INFO : test_e2e : Entering country name 
+2020-11-02 16:23:13,317 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 16:37:28,438 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:37:29,046 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:37:29,046 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:37:39,277 : INFO : test_e2e : Getting all card titles 
+2020-11-02 16:37:39,301 : INFO : test_e2e : iphone X 
+2020-11-02 16:37:39,312 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 16:37:39,324 : INFO : test_e2e : Nokia Edge 
+2020-11-02 16:37:39,334 : INFO : test_e2e : Blackberry 
+2020-11-02 16:37:39,452 : INFO : test_e2e : Entering country name 
+2020-11-02 16:37:44,913 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-02 16:40:29,843 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:40:30,436 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:40:30,436 : INFO : test_formSubmission : first name is Hatem 
+2020-11-02 16:40:40,766 : INFO : test_e2e : Getting all card titles 
+2020-11-02 16:40:40,794 : INFO : test_e2e : iphone X 
+2020-11-02 16:40:40,805 : INFO : test_e2e : Samsung Note 8 
+2020-11-02 16:40:40,816 : INFO : test_e2e : Nokia Edge 
+2020-11-02 16:40:40,826 : INFO : test_e2e : Blackberry 
+2020-11-02 16:40:40,940 : INFO : test_e2e : Entering country name 
+2020-11-02 16:40:46,347 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-03 09:04:01,595 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:04:03,830 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:04:03,830 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:04:15,404 : INFO : test_e2e : Getting all card titles 
+2020-11-03 09:04:15,430 : INFO : test_e2e : iphone X 
+2020-11-03 09:04:15,432 : INFO : test_e2e : Samsung Note 8 
+2020-11-03 09:04:15,440 : INFO : test_e2e : Nokia Edge 
+2020-11-03 09:04:15,450 : INFO : test_e2e : Blackberry 
+2020-11-03 09:04:15,891 : INFO : test_e2e : Entering country name 
+2020-11-03 09:04:21,823 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-03 09:14:47,865 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:14:48,455 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:14:48,455 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:14:58,545 : INFO : test_e2e : Getting all card titles 
+2020-11-03 09:14:58,573 : INFO : test_e2e : iphone X 
+2020-11-03 09:14:58,584 : INFO : test_e2e : Samsung Note 8 
+2020-11-03 09:14:58,594 : INFO : test_e2e : Nokia Edge 
+2020-11-03 09:14:58,605 : INFO : test_e2e : Blackberry 
+2020-11-03 09:14:58,731 : INFO : test_e2e : Entering country name 
+2020-11-03 09:15:04,197 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-03 09:20:06,998 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:20:09,135 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:20:09,135 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:20:20,402 : INFO : test_e2e : Getting all card titles 
+2020-11-03 09:20:20,417 : INFO : test_e2e : iphone X 
+2020-11-03 09:20:20,433 : INFO : test_e2e : Samsung Note 8 
+2020-11-03 09:20:20,433 : INFO : test_e2e : Nokia Edge 
+2020-11-03 09:20:20,433 : INFO : test_e2e : Blackberry 
+2020-11-03 09:20:20,889 : INFO : test_e2e : Entering country name 
+2020-11-03 09:20:26,874 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-03 09:26:08,230 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:26:10,403 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:26:10,403 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:26:21,690 : INFO : test_e2e : Getting all card titles 
+2020-11-03 09:26:21,714 : INFO : test_e2e : iphone X 
+2020-11-03 09:26:21,723 : INFO : test_e2e : Samsung Note 8 
+2020-11-03 09:26:21,728 : INFO : test_e2e : Nokia Edge 
+2020-11-03 09:26:21,733 : INFO : test_e2e : Blackberry 
+2020-11-03 09:26:22,164 : INFO : test_e2e : Entering country name 
+2020-11-03 09:26:28,236 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-11-03 09:27:50,774 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:27:51,503 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:27:51,503 : INFO : test_formSubmission : first name is Hatem 
+2020-11-03 09:28:01,727 : INFO : test_e2e : Getting all card titles 
+2020-11-03 09:28:01,756 : INFO : test_e2e : iphone X 
+2020-11-03 09:28:01,767 : INFO : test_e2e : Samsung Note 8 
+2020-11-03 09:28:01,776 : INFO : test_e2e : Nokia Edge 
+2020-11-03 09:28:01,785 : INFO : test_e2e : Blackberry 
+2020-11-03 09:28:01,892 : INFO : test_e2e : Entering country name 
+2020-11-03 09:28:07,273 : INFO : test_e2e : Message received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
